@@ -24,7 +24,6 @@ ExportedObj/
 *.svd
 *.pdb
 
-
 # Unity3D generated meta files
 *.pidb.meta
 
@@ -34,3 +33,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Visualizer Project
+Visualizer/.vs
+Visualizer/packages
+Visualizer/Visualizer/obj
+Visualizer/Visualizer/bin
